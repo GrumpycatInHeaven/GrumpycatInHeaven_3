@@ -14,6 +14,11 @@
         ]);
 
         var options = {
+           pieHole: 0.5,
+          pieSliceTextStyle: {
+            color: 'black',
+          },
+          
           title: 'Мужчины'
         };
 
